@@ -39,4 +39,9 @@ Here there a series of functions that are called from the main script:
 
 If you ever use parts of this code for your analysis please cite:
 
-- Laudańska, Z.; López Pérez,D.; Kozioł, A., Radkowska, A.; Babis, K.,Malinowska-Korczak; A., ;Tomalski, P. (2022). Longitudinal changes in infants' spontaneous rhythmic arm movements during rattle-shaking play with caregivers _In Review_.
+- Laudańska, Z., López Pérez,D., Kozioł, A., Radkowska, A., Babis, K.,Malinowska-Korczak, A., Tomalski, P. (2022). Longitudinal changes in infants' spontaneous rhythmic arm movements during rattle-shaking play with caregivers _In Review_.
+
+# Contact
+
+Any missing function  or questions about the code please contact d.lopez@psych.pan.pl
+
